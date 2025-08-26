@@ -1,0 +1,7 @@
+{
+    "name": "YYTT Token",
+    "description": "A custom Jetton token for YYTT project",
+    "symbol": "YYTT",
+    "decimals": 9,
+    "image": "https://raw.githubusercontent.com/Claude-Kim/metadata/main/yytt-logo.png"
+}
